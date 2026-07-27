@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+httpx
+trio
+tqdm
+urllib3
