@@ -1,0 +1,1 @@
+from .gosulusgi import gosuslugi
